@@ -12,3 +12,5 @@ draft: true
 # Basics
 
 Get started with Krush.Cloud
+
+Instructions and more
