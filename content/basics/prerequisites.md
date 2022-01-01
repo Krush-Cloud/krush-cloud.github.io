@@ -1,7 +1,7 @@
 ---
 title: "Prerequisites"
 date: 2021-12-31T22:41:08-08:00
-draft: true
+draft: false
 weight: 10
 ---
 
